@@ -1,0 +1,24 @@
+# Start of script
+
+# Submodules for my computing longevity standard projects
+
+# Software longevity project
+[submodule "Software longevity"]
+	path = ///Computing-longevity.github.io/Standards/Software-longevity/
+	url = https://github.com/seanpm2001/Software-longevity
+  
+# Hardware longevity project
+[submodule "Hardware longevity"]
+	path = ///Computing-longevity.github.io/Standards/Hardware-longevity/
+	url = https://github.com/seanpm2001/Hardware-longevity
+
+# Total submodules: 2
+
+# File info
+
+# File type: Git Modules list file (*.gitmodules)
+# File version: 1 (Monday, 2021 September 6th at 3:53 pm)
+# Line count (including blank lines and compiler line): 25
+# Langugae: English (US)
+
+# End of script
