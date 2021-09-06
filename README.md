@@ -196,11 +196,758 @@ The following software is certified to be NOT compliant with any software longev
 
 (Reasons for non-compliance: requires an Internet connection/serial number to install, cannot work at or after the year 10000)
 
+
+32 bit Linux
+
+16 bit Linux
+
+8 bit Linux
+
+AmigaOS
+
+AmigaOS 2
+
+AmigaOS 3
+
+AmigaOS 4
+
+Ubuntu 4.10 (32 bit)
+
+Ubuntu 5.04 (32 bit)
+
+Ubuntu 5.10 (32 bit)
+
+Ubuntu 6.06 (32 bit)
+
+Ubuntu 6.10 (32 bit)
+
+Ubuntu 7.04 (32 bit)
+
+Ubuntu 7.10 (32 bit)
+
+Ubuntu 8.04 (32 bit)
+
+Ubuntu 8.10 (32 bit)
+
+Ubuntu 9.04 (32 bit)
+
+Ubuntu 9.10 (32 bit)
+
+Ubuntu 10.04 (32 bit)
+
+Ubuntu 10.10 (32 bit)
+
+Ubuntu 11.04 (32 bit)
+
+Ubuntu 11.10 (32 bit)
+
+Ubuntu 12.04 (32 bit)
+
+Ubuntu 12.10 (32 bit)
+
+Ubuntu 13.04 (32 bit)
+
+Ubuntu 13.10 (32 bit)
+
+Ubuntu 14.04 (32 bit)
+
+Ubuntu 14.10 (32 bit)
+
+Ubuntu 15.04 (32 bit)
+
+Ubuntu 15.10 (32 bit)
+
+Ubuntu 16.04 (32 bit)
+
+Ubuntu 16.10 (32 bit)
+
+Ubuntu 17.04 (32 bit)
+
+Ubuntu 17.10 (32 bit)
+
+Ubuntu 18.04 (32 bit)
+
+Ubuntu 18.10 (32 bit)
+
+Ubuntu 19.04 (32 bit)
+
+Ubuntu 19.10 (32 bit)
+
+Ubuntu 20.04 (32 bit)
+
+Ubuntu 20.10 (32 bit)
+
+Ubuntu 21.04 (32 bit)
+
+Fedora Core 1 (32 bit)
+
+Fedora Core 2 (32 bit)
+
+Fedora Core 3 (32 bit)
+
+Fedora Core 4 (32 bit)
+
+Fedora Core 5 (32 bit)
+
+Fedora Core 6 (32 bit)
+
+Fedora 7 (32 bit)
+
+Fedora 8 (32 bit)
+
+Fedora 9 (32 bit)
+
+Fedora 10 (32 bit)
+
+Fedora 11 (32 bit)
+
+Fedora 12 (32 bit)
+
+Fedora 13 (32 bit)
+
+Fedora 14 (32 bit)
+
+Fedora 15 (32 bit)
+
+Fedora 16 (32 bit)
+
+Fedora 17 (32 bit)
+
+Fedora 18 (32 bit)
+
+Fedora 19 (32 bit)
+
+Fedora 20 (32 bit)
+
+Fedora 21 (32 bit)
+
+Fedora 22 (32 bit)
+
+Fedora 23 (32 bit)
+
+Fedora 24 (32 bit)
+
+Fedora 25 (32 bit)
+
+Fedora 26 (32 bit)
+
+Fedora 27 (32 bit)
+
+Fedora 28 (32 bit)
+
+Fedora 29 (32 bit)
+
+Fedora 30 (32 bit)
+
+Fedora 31 (32 bit)
+
+Fedora 32 (32 bit)
+
+Fedora 33 (32 bit)
+
+Fedora 34 (32 bit)
+
+Fedora 35 (32 bit)
+
+Fedora 36 (32 bit)
+
+Minecraft (due to the require of online registration to install)
+
+Windows XP mode (due to the requirement of online registration to install, and being 32 bit software)
+
+Windows Server 2003 (online registration required)
+
+Windows Server 2003 R2 (online registration required)
+
+Windows Server 2008 (online registration required)
+
+Windows Server 2008 R2 (online registration required)
+
+Windows Server 2012 (online registration required)
+
+Windows Server 2012 R2 (online registration required)
+
+Windows Server 2016 (online registration required)
+
+Windows Server 2016 R2 (online registration required)
+
+Windows Server 2019 (online registration required)
+
+Windows Server 2019 R2 (online registration required)
+
+Red Hat Linux (all versions)
+
+RHEL (pre-v6)
+
+RHEL 7 (32 bit)
+
+RHEL 8 (32 bit)
+
+RHEL 9 (32 bit)
+
+Debian Linux 1 (32 bit)
+
+Debian Linux 2 (32 bit)
+
+Debian Linux 3 (32 bit)
+
+Debian Linux 4 (32 bit)
+
+Debian Linux 5 (32 bit)
+
+Debian Linux 6 (32 bit)
+
+Debian Linux 7 (32 bit)
+
+Debian Linux 8 (32 bit)
+
+Debian Linux 9 (32 bit)
+
+Debian Linux 10 (32 bit)
+
+Debian Linux 11 (32 bit)
+
+Debian Linux 12 (32 bit)
+
+K Desktop Environment 1.x (32 bit)
+
+K Desktop Environment 2.x (32 bit)
+
+K Desktop Environment 3.x (32 bit)
+
+KDE Plasma 4 (32 bit)
+
+KDE Plasma 5 (32 bit)
+
+GNOME 1 (32 bit)
+
+GNOME 2 (32 bit)
+
+GNOME 3 (32 bit)
+
+GNOME 40 (32 bit)
+
+GNOME 41 (32 bit)
+
+Adobe Photoshop (all versions) (requires online registration)
+
+Adobe Flash (all versions) (requires online registration)
+
+Adobe Animate (all versions) (requires online registration)
+
+Adobe InDesign (all versions) (requires online registration)
+
+Adobe Bridge (all versions) (requires online registration)
+
+Adobe Muse (all versions) (requires online registration)
+
+Adobe Premiere Pro (all versions) (requires online registration)
+
+Adobe After effects (all versions) (requires online registration)
+
+Adobe Dreamweaver (all versions) (requires online registration)
+
+Adobe Creative cloud (all versions) (requires online registration)
+
+Adobe  (all versions) (requires online registration)
+
+Java (32 bit)
+
+JavaScript (32 bit)
+
+Python (32 bit)
+
+Ruby (32 bit)
+
+SQL (32 bit and 16 bit)
+
+Perl (32 bit)
+
+MATLAB (32 bit)
+
+Go (32 bit)
+
+Go! (32 bit)
+
+Haskell (32 bit)
+
+Elixir (32 bit)
+
+Eiffel (32 bit)
+
+Erlang (32 bit)
+
+ECMAScript (32 bit)
+
+FORTRAN (8 bit, 16 bit, 32 bit)
+
+D (32 bit)
+
+Dart (32 bit)
+
+Caml (32 bit)
+
+C (32 bit)
+
+C++ (32 bit)
+
+C# (32 bit)
+
+PowerShell (32 bit)
+
+Swift (32 bit)
+
+Boo (32 bit)
+
+BASIC (8 bit, 16 bit)
+
+AppleScript (32 bit)
+
+Objective-C (8 bit, 16 bit, 32 bit)
+
+Objective-C++ (16 bit, 32 bit)
+
+ActionScript (16 bit, 32 bit)
+
+AngelScript (32 bit)
+
+Forth (16 bit, 32 bit)
+
+F# (32 bit)
+
+Genie (32 bit)
+
+GLSL (32 bit)
+
+HLSL (32 bit)
+
+Google Apps Script (32 bit)
+
+Inno Setup (32 bit)
+
+Idris (32 bit)
+
+Kotlin (32 bit)
+
+Lua (32 bit)
+
+Lisp (8 bit, 16 bit, 32 bit)
+
+Makefile (16 bit, 32 bit)
+
+M4 (16 bit, 32 bit)
+
+Pascal (16 bit, 32 bit)
+
+Pig (32 bit)
+
+PostScript (32 bit)
+
+PureScript (32 bit)
+
+QML (32 bit)
+
+Q# (32 bit)
+
+R (32 Bit)
+
+REBOL (32 bit)
+
+Raku (32 bit)
+
+Rust (32 bit)
+
+Scheme (8 bit, 16 bit, 32 bit)
+
+Scala (32 bit)
+
+Sass (32 bit)
+
+TypeScript (32 bit)
+
+TCL (32 bit)
+
+TOML (32 bit)
+
+UnrealScript (32 bit)
+
+Vala (32 bit)
+
+Visual Basic Script (8 bit, 16 bit, 32 bit)
+
+VB.NET (32 bit)
+
+BrightScript (32 bit)
+
+XSLT (32 bit)
+
+Yacc (32 bit)
+
+YAML (32 bit)
+
+WebAssembly (32 bit)
+
+Liquid (32 bit)
+
+ZenScript (32 bit)
+
 ## Compliant software
 
 The following software is certified to be compliant with software longevity standards.
 
-- None listed
+Ubuntu 9.04 (64 bit)
+
+Ubuntu 9.10 (64 bit)
+
+Ubuntu 10.04 (64 bit)
+
+Ubuntu 10.10 (64 bit)
+
+Ubuntu 11.04 (64 bit)
+
+Ubuntu 11.10 (64 bit)
+
+Ubuntu 12.04 (64 bit)
+
+Ubuntu 12.10 (64 bit)
+
+Ubuntu 13.04 (64 bit)
+
+Ubuntu 13.10 (64 bit)
+
+Ubuntu 14.04 (64 bit)
+
+Ubuntu 14.10 (64 bit)
+
+Ubuntu 15.04 (64 bit)
+
+Ubuntu 15.10 (64 bit)
+
+Ubuntu 16.04 (64 bit)
+
+Ubuntu 16.10 (64 bit)
+
+Ubuntu 17.04 (64 bit)
+
+Ubuntu 17.10 (64 bit)
+
+Ubuntu 18.04 (64 bit)
+
+Ubuntu 18.10 (64 bit)
+
+Ubuntu 19.04 (64 bit)
+
+Ubuntu 19.10 (64 bit)
+
+Ubuntu 20.04 (64 bit)
+
+Ubuntu 20.10 (64 bit)
+
+Ubuntu 21.04 (64 bit)
+
+VLC Media Player (all versions)
+
+QuickTime Player (all versions)
+
+Windows Media Player (all versions)
+
+Windows Movie Maker (all versions)
+
+Windows calculator (all versions)
+
+Mari0 (all versions)
+
+GNOME System Monitor (all versions)
+
+Windows Task Manager (all versions)
+
+Vim Text Editor (all versions)
+
+GIMP (all versions)
+
+Microsoft Paint (all versions)
+
+Blender (all versions)
+
+Windows Notepad (all versions)
+
+Notepad++ (all versions)
+
+Microsoft Minesweeper (all versions)
+
+Microsoft Solitaire (all versions)
+
+GNOME Solitaire (all versions)
+
+GNOME Mines (all versions)
+
+Okular (all versions)
+
+GNOME Image viewer (all versions)
+
+GNOME Cheese (only on 64 bit systems)
+
+GNOME Transmission (only on 64 bit systems)
+
+LibreOffice (only on 64 bit systems)
+
+LibreOffice Writer (only on 64 bit systems)
+
+LibreOffice Calc (only on 64 bit systems)
+
+LibreOffice Draw (only on 64 bit systems)
+
+LibreOffice Impress (only on 64 bit systems)
+
+GNOME AisleRot Solitaire (only on 64 bit systems)
+
+Fedora 7 (64 bit)
+
+Fedora 8 (64 bit)
+
+Fedora 9 (64 bit)
+
+Fedora 10 (64 bit)
+
+Fedora 11 (64 bit)
+
+Fedora 12 (64 bit)
+
+Fedora 13 (64 bit)
+
+Fedora 14 (64 bit)
+
+Fedora 15 (64 bit)
+
+Fedora 16 (64 bit)
+
+Fedora 17 (64 bit)
+
+Fedora 18 (64 bit)
+
+Fedora 19 (64 bit)
+
+Fedora 20 (64 bit)
+
+Fedora 21 (64 bit)
+
+Fedora 22 (64 bit)
+
+Fedora 23 (64 bit)
+
+Fedora 24 (64 bit)
+
+Fedora 25 (64 bit)
+
+Fedora 26 (64 bit)
+
+Fedora 27 (64 bit)
+
+Fedora 28 (64 bit)
+
+Fedora 29 (64 bit)
+
+Fedora 30 (64 bit)
+
+Fedora 31 (64 bit)
+
+Fedora 32 (64 bit)
+
+Fedora 33 (64 bit)
+
+Fedora 34 (64 bit)
+
+Fedora 35 (64 bit)
+
+Fedora 36 (64 bit)
+
+Oracle VM VirtualBox (only on 64 bit systems)
+
+Windows Character map (all versions)
+
+Windows Registry (all versions)
+
+Hyper-V (64 bit)
+
+RHEL 7 (64 bit)
+
+RHEL 8 (64 bit)
+
+RHEL 9 (64 bit)
+
+Debian Linux 6 (64 bit)
+
+Debian Linux 7 (64 bit)
+
+Debian Linux 8 (64 bit)
+
+Debian Linux 9 (64 bit)
+
+Debian Linux 10 (64 bit)
+
+Debian Linux 11 (64 bit)
+
+Debian Linux 12 (64 bit)
+
+KDE Plasma 4 (64 bit)
+
+KDE Plasma 5 (64 bit)
+
+GNOME 3 (64 bit)
+
+GNOME 40 (64 bit)
+
+GNOME 41 (64 bit)
+
+Snowcraft (flash game)
+
+GNOME Screenshot (only on 64 bit versions)
+
+GNOME Calendar (64 bit)
+
+XEYES
+
+XCALC
+
+XCLOCK
+
+Java (64 bit)
+
+JavaScript (64 bit)
+
+Python (64 bit)
+
+Ruby (64 bit)
+
+SQL (64 bit)
+
+Perl (64 bit)
+
+MATLAB (64 bit)
+
+Go (64 bit)
+
+Go! (64 bit)
+
+Haskell (64 bit)
+
+Elixir (64 bit)
+
+Eiffel (64 bit)
+
+Erlang (64 bit)
+
+ECMAScript (64 bit)
+
+FORTRAN (64 bit)
+
+D (64 bit)
+
+Dart (64 bit)
+
+Caml (64 bit)
+
+C (64 bit)
+
+C++ (64 bit)
+
+C# (64 bit)
+
+PowerShell (64 bit)
+
+Swift (64 bit)
+
+Boo (64 bit)
+
+AppleScript (64 bit)
+
+Objective-C (64 bit)
+
+Objective-C++ (64 bit)
+
+ActionScript (64 bit)
+
+AngelScript (64 bit)
+
+Forth (64 bit)
+
+F# (64 bit)
+
+Genie (64 bit)
+
+GLSL (64 bit)
+
+HLSL (64 bit)
+
+Google Apps Script (64 bit)
+
+Inno Setup (64 bit)
+
+Idris (64 bit)
+
+Kotlin (64 bit)
+
+Lua (64 bit)
+
+Lisp (64 bit)
+
+Makefile (64 bit)
+
+M4 (64 bit)
+
+Pascal (64 bit)
+
+Pig (64 bit)
+
+PostScript (64 bit)
+
+PureScript (64 bit)
+
+QML (64 bit)
+
+Q# (64 bit)
+
+R (64 Bit)
+
+REBOL (64 bit)
+
+Raku (64 bit)
+
+Rust (64 bit)
+
+Scheme (64 bit)
+
+Scala (64 bit)
+
+Sass (64 bit)
+
+TypeScript (64 bit)
+
+TCL (64 bit)
+
+TOML (64 bit)
+
+UnrealScript (64 bit)
+
+Vala (64 bit)
+
+Visual Basic Script (64 bit)
+
+VB.NET (64 bit)
+
+BrightScript (64 bit)
+
+XSLT (64 bit)
+
+Yacc (64 bit)
+
+YAML (64 bit)
+
+WebAssembly (64 bit)
+
+Liquid (64 bit)
+
+ZenScript (64 bit)
 
 ## Non-compliant hardware
 
@@ -412,9 +1159,11 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 **File type:** `Markdown (*.md *.mkd *.markdown)`
 
-**File version:** `1 (Saturday, 2021 September 4th at 7:02 pm)`
+**File version:** `2 (2021 Monday September 6th at 3:31 pm)`
 
-**Line count:** `0,568`
+**Line count:** `1,337`
+
+**Language:** `English (US)`
 
 ***
 
@@ -548,13 +1297,33 @@ Version 1 (2021 Saturday September 4th at 7:02 pm)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Monday, 2021 September 6th at 3:31 pm)
+
+> Changes:
+
+> * Content update: added over 100 entries for compliant and non-compliant software
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2Con
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
